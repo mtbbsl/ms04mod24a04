@@ -9,4 +9,8 @@ function mindGame(number){
 }
 
 const x = mindGame(5);
+// const x = mindGame(50);
+// const x = mindGame(33);
+// const x = mindGame(-33);
+// const x = mindGame("number");
 console.log(x);

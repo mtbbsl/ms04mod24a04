@@ -13,5 +13,8 @@ function isLGSeven(number){
     }
 }
 
-const x = isLGSeven(15);
+// const x = isLGSeven(6);
+// const x = isLGSeven(-15);
+// const x = isLGSeven(15);
+// const x = isLGSeven('15');
 console.log(x);

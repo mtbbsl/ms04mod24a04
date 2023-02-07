@@ -16,8 +16,8 @@ function findingBadData(numbers){
     return count; // negetiveNumber;
 }
 
-let numbers = [1, 2, 5];
-// let numbers = [2, -5, -7, -13];
+// let numbers = [1, 2, 5];
+let numbers = [2, -5, -7, -13];
 // let numbers = [-4, -9, -5, -33, -55];
 // let numbers = 'abc';
 // let numbers = 2;

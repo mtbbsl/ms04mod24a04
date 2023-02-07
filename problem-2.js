@@ -11,6 +11,10 @@ function evenOdd(string){
     }
 }
 
-const x = evenOdd('chatgpt');
+const x = evenOdd('Phero');
+// const x = evenOdd('Batch7');
+// const x = evenOdd('chatgpt');
+// const x = evenOdd(7);
+// const x = evenOdd('');
 console.log(x);
 // console.log(typeof x);
